@@ -1,5 +1,5 @@
 # Python-Click
-A simple program that click in the pointer pointed from the mouse. 
+A simple program that click on the point pointed from the mouse. 
 
 ## Install
 1- pip3 install pynput
